@@ -80,13 +80,8 @@ streamlit run ipmain.py
 | 🎯 Risk Tolerance | Moderate        |
 
 ### 🖼️ Sample Output Screenshots
+![Investment portfolio advisor](https://github.com/user-attachments/assets/78f86f1c-db47-4235-8f4e-6a9249e92843)
 
-<img width="1366" height="447" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/c0878c53-e7da-4c06-91b0-1008fd0d26e9" />  
-<img width="1366" height="581" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/485c34cf-41d0-4a8e-a445-95df25185140" />  
-<img width="1366" height="562" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/b4bfeb00-c527-449f-b45c-1ed0e81c1fbd" />  
-<img width="1366" height="380" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7cf41b75-a9bb-43b4-9265-fe17d8fcc8be" />  
-<img width="1366" height="411" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/3428a2b8-9c46-4381-81b8-b96ebeb39c23" />  
-<img width="1366" height="411" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/55b6d1a5-fea5-4f28-9449-ba3840c28dc5" />  
 
 ---
 
